@@ -8,5 +8,6 @@
 
 | <a href="https://github.com/khaleeljageer/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=khaleeljageer&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Khaleel's github stats" /></a> | <a href="https://github.com/khaleeljageer/"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaleeljageer&theme=radical&hide_border=true" /></a>
 | ------------- | ------------- |
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleeljageer&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaleeljageer&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="visitors"/>
+</p>
