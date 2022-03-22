@@ -1,6 +1,6 @@
-<p align="center">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=khaleeljageer.khaleeljageer" alt="visitors"/>   
-</p>
+<!-- <p align="center">
+    #<img src="https://visitor-badge.laobi.icu/badge?page_id=khaleeljageer.khaleeljageer" alt="visitors"/>   
+</p> -->
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
