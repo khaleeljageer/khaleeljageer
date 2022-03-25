@@ -4,8 +4,9 @@
 
 ## Donation
 If my project help you reduce time to develop, you can give me a cup of coffee :)
-
+<div>
 <a href="https://www.buymeacoffee.com/E2zwPk0aJ" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+</div>
 
 <div align="center">
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=khaleeljageer&hide_border=true&theme=redical&area=true" />
